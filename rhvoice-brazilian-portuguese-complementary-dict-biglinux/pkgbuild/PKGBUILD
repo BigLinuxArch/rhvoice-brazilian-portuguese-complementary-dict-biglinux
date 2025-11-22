@@ -7,7 +7,7 @@ arch=('any')
 license=('GPL')
 url="https://github.com/biglinux/rhvoice-brazilian-portuguese-complementary-dict-biglinux"
 pkgdesc="Better TTS in Brazilian Portuguese"
-source=("git+https://github.com/biglinux/rhvoice-brazilian-portuguese-complementary-dict-biglinux.git#branch=")
+source=("git+https://github.com/biglinux/rhvoice-brazilian-portuguese-complementary-dict-biglinux.git#branch=master")
 md5sums=(SKIP)
 
 package() {
